@@ -43,3 +43,5 @@ It was found that the Visual C++ development libraries contain the necessary CMa
         ```
 
 After completing these steps, you should be able to run the SDL2-dependent executable (e.g., `./build/bin/Release/whisper-stream.exe`) from the `whisper.cpp` root directory.
+
+---
